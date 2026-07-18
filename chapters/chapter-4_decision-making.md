@@ -1,6 +1,6 @@
-**Chapter 4 – Decision Making (if, else, Ternary, Logical Operators)**
+# Chapter 4 – Decision Making (if, else, Ternary, Logical Operators)
 
-**1. if Statement**
+## 1. if Statement
 <code><pre>
 const age = 20;
 if (age >= 18) {
@@ -8,7 +8,7 @@ if (age >= 18) {
 }
 </pre></code>
 
-**2. if...else**
+## 2. if...else
 <code><pre>
 const age = 16;
 if (age >= 18) {
@@ -18,7 +18,8 @@ if (age >= 18) {
 }
 </pre></code>
 
-**3. else if :** Jab multiple conditions check karni ho.
+## 3. else if : 
+- Jab multiple conditions check karni ho.
 <code><pre>
 const marks = 82;
 
@@ -36,7 +37,7 @@ else {
 }
 </pre></code>
 
-**4. Ternary Operator**
+## 4. Ternary Operator
 
 **Syntax**
 <code><pre>
@@ -49,7 +50,7 @@ const age = 20;
 console.log(age >= 18 ? "Adult" : "Minor");
 </pre></code>
 
-**5. Logical AND (&&)**
+## 5. Logical AND (&&)
 - React me show/hide ke liye use hota hai.
 
 **Example**
@@ -58,7 +59,7 @@ const isAdmin = true;
 isAdmin && console.log("Delete Button");
 </pre></code>
 
-**6. Logical OR (||)**
+## 6. Logical OR (||)
 
 **Example**
 <code><pre>
@@ -66,7 +67,7 @@ const isAdmin = true;
 isAdmin && console.log("Delete Button");
 </pre></code>
 
-**Interview Questions**
+## Interview Questions
 
 **Q1. React me `if` JSX ke andar use kar sakte hain?**
 

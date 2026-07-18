@@ -1,6 +1,6 @@
-**Chapter 2 – Data Types**
+# Chapter 2 – Data Types
 
-**Data Type Kya Hota Hai?**
+## Data Type Kya Hota Hai?
 
 - Data Type batata hai ki variable ke andar kis type ka data store hai.
 
@@ -20,7 +20,7 @@ const age = 28;
 | Object    | `{}`      | ✅ Daily       |
 | Array     | `[]`      | ✅ Daily       |
 
-**Object :**
+## Object :
 Object multiple values ko ek saath store karta hai.
 <code><pre>
 const user = {
@@ -31,19 +31,21 @@ const user = {
 console.log(user.name);
 </pre></code>
 
-**Array**
+## Array
 <code><pre>
 const fruits = ["Apple", "Banana", "Mango"];
 console.log(fruits[0]);
 </pre></code>
 
-**typeof Operator:**  Kabhi kabhi hume check karna hota hai ki variable ka type kya hai.
+## typeof Operator
+- Kabhi kabhi hume check karna hota hai ki variable ka type kya hai.
 <code><pre>
 const name = "Jyoti";
 console.log(typeof name);
 </pre></code>
 
-**instanceof :** instanceof check karta hai ki kya object kisi constructor/class ka instance hai.
+## instanceof 
+- instanceof check karta hai ki kya object kisi constructor/class ka instance hai.
 
 | `typeof`                                   | `instanceof`                           |
 | ------------------------------------------ | -------------------------------------- |

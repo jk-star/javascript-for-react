@@ -1,6 +1,6 @@
-**Chapter 5 – Functions**
+# Chapter 5 – Functions
 
-**Function Kya Hota Hai?**
+## Function Kya Hota Hai?
 
 Function ek reusable block of code hota hai jo kisi specific kaam ko perform karta hai.
 
@@ -35,7 +35,7 @@ function add(a, b) {
 console.log(add(10, 20));
 </pre></code>
 
-**Interview Questions**
+## Interview Questions
 
 **Q1. Function kya hota hai?**
 
@@ -51,7 +51,7 @@ console.log(add(10, 20));
 
 👉 Function se value wapas bhejta hai.
 
-**Arrow Functions**
+## Arrow Functions
 
 **Arrow Function Syntax**
 <code><pre>

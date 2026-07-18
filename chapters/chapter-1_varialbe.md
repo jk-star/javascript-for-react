@@ -1,6 +1,6 @@
-**📖 Chapter 1 – let, const aur var**
+# 📖 Chapter 1 – let, const aur var
 
-**1. Variable kya hota hai?**
+## 1. Variable kya hota hai?
 - Variable ek container (box) hota hai jisme hum data store karte hain.
 
 **📊 Difference**
@@ -10,7 +10,8 @@
 | Reassign kar sakte ho? | ✅ Yes  | ✅ Yes         | ❌ No          |
 | React me use           | ❌ Rare | ✅ Kabhi-kabhi | ✅ Most Common |
 
-**🎤 Interview Questions**
+## Interview Questions
+
 **Q1. let aur const me kya difference hai?**
 
 👉 let ki value change ho sakti hai, const ki nahi.
@@ -23,7 +24,7 @@
 
 👉 Nahi, modern JavaScript aur React me generally avoid karte hain.
 
-**Part 2 – Scope**
+## Part 2 – Scope
 
 **Scope Kya Hota Hai?**
 - Scope batata hai ki kisi variable ko program ke kis area (region) se access kiya ja sakta hai.
@@ -148,24 +149,24 @@ console.log(x);
 
 - Answer Kyuki var Block Scope follow hi nahi karta. var sirf Function Scope follow karta hai.
 
-**Interview Questions**
+## Interview Questions
 
-**Q1. Scope kya hai?**
+### Q1. Scope kya hai?
 
 - Scope define karta hai ki variable ko code ke kis part se access kiya ja sakta hai.
 
-**Q2. Kitne type ke Scope hote hain?**
+### Q2. Kitne type ke Scope hote hain?
 
 - Global Scope
 - Function Scope
 - Block Scope
 
-**Q3. var aur let me Scope ka difference?**
+### Q3. var aur let me Scope ka difference?
 
 - var → Function Scoped
 - let → Block Scoped
 
-**Q4. const kis scope ko follow karta hai?**
+### Q4. const kis scope ko follow karta hai?
 - Block Scope
 
 <code><pre>
@@ -255,7 +256,7 @@ Admin
 </pre></code>
 - Ye React components me bahut dekhne ko milta hai.
 
-**Part 3 – Hoisting**
+## Part 3 – Hoisting
 
 **Hoisting Kya Hai?**
 
@@ -407,7 +408,7 @@ a
 - var → undefined ke saath initialize hota hai.
 - let → Memory me hota hai, lekin uninitialized rehta hai.
 
-**Part 4 – Temporal Dead Zone (TDZ)**
+## Part 4 – Temporal Dead Zone (TDZ)
 
 **TDZ Kya Hai?**
 

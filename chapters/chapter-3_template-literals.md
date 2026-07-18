@@ -1,8 +1,6 @@
-**Chapter 3 – Template Literals**
+# Chapter 3 – Template Literals
 
-**Template Literal Kya Hota Hai?**
-
-**Template Literal Kya Hota Hai?**
+## Template Literal Kya Hota Hai?
 
 Template Literal ek modern JavaScript feature hai jisse hum:
 
@@ -38,7 +36,7 @@ function greet() {
 console.log(`` `${greet()} Jyoti` ``);
 </pre></code>
 
-**Interview Questions**
+## Interview Questions
 
 **Q1. Template Literal me kaunsa symbol use hota hai?**
 
