@@ -26,13 +26,13 @@ const chapters = [
     },
     {
         id: 6,
-        title: "HTML Links (Anchor Tag)",
-        file: "chapter-6_links.md"
+        title: "Arrays",
+        file: "chapter-6_arrays.md"
     },
     {
         id: 7,
-        title: "HTML Images",
-        file: "chapter-7_images.md"
+        title: "Objects & Destructuring",
+        file: "chapter-7_objects.md"
     },
     {
         id: 8,
