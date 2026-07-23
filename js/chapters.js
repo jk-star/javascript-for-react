@@ -36,18 +36,18 @@ const chapters = [
     },
     {
         id: 8,
-        title: "HTML tables",
-        file: "chapter-8_tables.md"
+        title: "ES6 Features (Spread, Rest, Optional Chaining, Nullish Coalescing)",
+        file: "chapter-8_ES6-features.md"
     },
     {
         id: 9,
-        title: "HTML Forms",
-        file: "chapter-9_forms.md"
+        title: "Modules (import / export)",
+        file: "chapter-9_modules.md"
     },
     {
         id: 10,
-        title: "Semantic HTML",
-        file: "chapter-10_semantic-html.md"
+        title: "Promises",
+        file: "chapter-10_promises.md"
     },
     {
         id: 11,
