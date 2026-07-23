@@ -220,3 +220,15 @@
 - Todo App
 - Product API
 - Blog API
+
+## 🏆 Mini Projects (JavaScript Only)
+- Calculator
+- BMI Calculator
+- Age Calculator
+- Quiz App
+- Weather App
+- Todo App
+- Expense Tracker
+- Notes App
+- Shopping Cart
+- Student Management System
