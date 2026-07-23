@@ -51,12 +51,17 @@ const chapters = [
     },
     {
         id: 11,
-        title: "HTML5 Multimedia",
-        file: "chapter-11_multimedia.md"
+        title: "Async / Await",
+        file: "chapter-11_async-await.md"
     },
     {
         id: 12,
-        title: "Meta Tags & SEO",
-        file: "chapter-12_meta-tags.md"
+        title: "Fetch API",
+        file: "chapter-12_fetch-api.md"
+    },
+    {
+        id: 13,
+        title: "Pratice Task",
+        file: "chapter-13_task.md"
     }
 ];
